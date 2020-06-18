@@ -16,7 +16,7 @@ keywords:
 
 Getting started
 ---------------
-{: .-three-column}
+{: .-two-column}
 
 ### Example
 
@@ -111,7 +111,7 @@ See: [Brace expansion](http://wiki.bash-hackers.org/syntax/expansion/brace)
 
 Parameter expansions
 --------------------
-{: .-three-column}
+{: .-two-column}
 
 ### Basics
 
@@ -229,7 +229,7 @@ Omitting the `:` removes the (non)nullity checks, e.g. `${FOO-val}` expands to `
 
 Loops
 -----
-{: .-three-column}
+{: .-two-column}
 
 ### Basic for loop
 
@@ -281,7 +281,7 @@ done
 
 Functions
 ---------
-{: .-three-column}
+{: .-two-column}
 
 ### Defining functions
 
@@ -345,7 +345,7 @@ See [Special parameters](http://wiki.bash-hackers.org/syntax/shellvars#special_p
 
 Conditionals
 ------------
-{: .-three-column}
+{: .-two-column}
 
 ### Conditions
 
@@ -484,7 +484,7 @@ done
 
 Dictionaries
 ------------
-{: .-three-column}
+{: .-two-column}
 
 ### Defining
 
